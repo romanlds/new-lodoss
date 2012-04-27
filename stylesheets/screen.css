@@ -67,6 +67,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   height: 100px;
   background: #000;
 }
+#wrapper .main-wrapper .header-wrapp .logo a {
+  text-decoration: none;
+  padding: 0 10px;
+  display: block;
+  line-height: 100px;
+  font-size: 150%;
+  color: #fff;
+}
 #wrapper .main-wrapper .container {
   height: 600px;
   background: #ffc;
