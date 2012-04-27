@@ -58,20 +58,18 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block;
 }
 
-#wrapper {
-  background: gold;
-}
 #wrapper .main-wrapper {
   width: 930px;
+  margin: 0 auto;
   background: blue;
 }
 #wrapper .main-wrapper .header-wrapp {
   height: 100px;
-  outline: 1px solid #000;
+  background: #000;
 }
 #wrapper .main-wrapper .container {
   height: 600px;
-  outline: 1px solid #ffc;
+  background: #ffc;
 }
 #wrapper .main-wrapper .footer-wrapp {
   height: 100px;

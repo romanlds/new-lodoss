@@ -6,20 +6,20 @@
 @import "compass/reset";
 
 #wrapper {
-	background: gold;
 
 	.main-wrapper {
 		width: 930px;
+		margin: 0 auto;
 		background: blue;
 
 		.header-wrapp {
 			height: 100px;
-			outline: 1px solid #000;
+			background: #000;
 		}
 
 		.container {
 			height: 600px;
-			outline: 1px solid #ffc;
+			background: #ffc;
 		}
 
 		.footer-wrapp {
